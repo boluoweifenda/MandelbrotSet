@@ -1,2 +1,2 @@
 # MandelbrotSet
-A mandelbrot set zooming program, support multi-core, only double precision
+A mandelbrot set zooming program, support multi-core, only decimal precision
